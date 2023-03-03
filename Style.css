@@ -1,0 +1,120 @@
+
+
+.modal {
+    width: 1400px;
+    height: 800px;
+    line-height: 200px;
+    position: fixed;
+    top: 20%;
+    left: 20%;
+    margin-top: -100px;
+    margin-left: -150px;
+    background-color: #000000;
+    border-radius: 40px;
+    text-align: center;
+    z-index: 0;
+    opacity: 20%;
+  }
+
+  img{
+    width: 12%;
+    position: fixed;
+    margin-top: 90px;
+    margin-left: 180px;
+    top: 5%;
+    left: 35%;
+    color: rgb(0, 221, 0);
+    z-index: 3;
+  }
+  
+  body{
+    background-size: cover;
+    z-index: -1;
+  }
+
+  .Titolo1{
+    text-align: center;
+    margin-top: 250px;
+    margin-left: 65px;
+    z-index: 3;
+    color: rgb(0, 221, 0);
+    position: relative
+  }
+  .Verde{
+    background-color: rgb(0, 221, 0);
+    text-align: center;
+    width: 1120px;
+    margin-left: 337px;
+    height: 42px;
+    z-index: 5 !important;
+    opacity: 100%;
+    position: relative;
+  }
+
+  .gino{
+    color: white;
+    text-align: center;
+    width: 740px;
+    height: 50px;
+    margin-left: 50px;
+    position: relative;
+    font-size: 25px;
+    margin-top: 25px;
+  }
+
+  .bottoni{
+    text-align: center;
+    margin-top: 15px;
+  }
+
+  .piccole{
+    text-align: center;
+    color: white;
+    margin-left: 100px;
+    width: 726px;
+    height: 50px;
+    margin-top: -16px;
+  }
+
+  .carica{
+    text-align: center;
+    color: white;
+    margin-left: 100px;
+    width: 525px;
+    height: 50px;
+    margin-top: -36px;
+  }
+
+  .arancio{
+    background-color: rgb(245, 180, 83);
+    size: 500px;
+    width: 501px;
+    height: 33px;
+    margin-left: 309px;
+    margin-top: -35px;
+    position: relative;
+    border-radius: 7px;
+  }
+  
+  .verdino{
+    background-color: rgb(30, 195, 30);
+    size: 500px;
+    width: 732px;
+    height: 33px;
+    margin-left: 309px;
+    margin-top: -35px;
+    position: relative;
+    border-radius: 7px;
+  }
+
+  .rosso{
+    background-color: rgb(190, 65, 65);
+    size: 500px;
+    width: 179px;
+    height: 33px;
+    margin-left: 309px;
+    margin-top: -35px;
+    position: relative;
+    border-radius: 7px;
+
+  }
